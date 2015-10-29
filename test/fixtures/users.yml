@@ -1,11 +1,11 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  name: MyString
-  age: MyString
-  phone_number: MyString
+user1:
+  name: Njerry
+  age: 21
+  email: sly@njeri.com
 
-two:
-  name: MyString
-  age: MyString
-  phone_number: MyString
+user2:
+  name: Rob
+  age: 42
+  email: rob@bob.com
